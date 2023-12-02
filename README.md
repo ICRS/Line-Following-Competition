@@ -1,2 +1,6 @@
-# Line-Following-Competition
-ICRS' Line following robot competition repository.
+# Line Following Robot Competition
+
+[](https://www.youtube.com/watch?v=uSSDyEhkCK0)
+
+## Rules
+* 
